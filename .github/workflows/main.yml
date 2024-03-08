@@ -9,6 +9,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
+      
       - name: Install dependencies
         run: npm ci
 
@@ -18,4 +19,4 @@ jobs:
       - name: Deploy 🚀
         uses: JamesIves/github-pages-deploy-action@v4
         with:
-          folder: public # The folder the action should deploy.
+          folder: build # The folder the action should deploy.
