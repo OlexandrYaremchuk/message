@@ -1,5 +1,6 @@
 {
   "name": "message",
+  "homepage": "https://github.com/OlexandrYaremchuk/message",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
