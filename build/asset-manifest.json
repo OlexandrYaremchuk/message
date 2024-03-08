@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/OlexandrYaremchuk/message/static/css/main.f855e6bc.css",
-    "main.js": "/OlexandrYaremchuk/message/static/js/main.f6113451.js",
-    "index.html": "/OlexandrYaremchuk/message/index.html",
-    "main.f855e6bc.css.map": "/OlexandrYaremchuk/message/static/css/main.f855e6bc.css.map",
-    "main.f6113451.js.map": "/OlexandrYaremchuk/message/static/js/main.f6113451.js.map"
+    "main.css": "./static/css/main.f855e6bc.css",
+    "main.js": "./static/js/main.2ec6619a.js",
+    "index.html": "./index.html",
+    "main.f855e6bc.css.map": "./static/css/main.f855e6bc.css.map",
+    "main.2ec6619a.js.map": "./static/js/main.2ec6619a.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.f6113451.js"
+    "static/js/main.2ec6619a.js"
   ]
 }
